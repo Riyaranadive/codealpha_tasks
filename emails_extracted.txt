@@ -1,0 +1,4 @@
+admin123@another-site.co.uk.
+info@example.com
+support@domain.org.
+test.email+spam@gmail.com

@@ -1,0 +1,4 @@
+Hello team,
+Please contact us at info@example.com or support@domain.org.
+Also cc to test.email+spam@gmail.com and admin123@another-site.co.uk.
+Thanks!
